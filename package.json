@@ -1,0 +1,15 @@
+{
+  "name": "single-file-component-loader",
+  "version": "1.0.0",
+  "main": "loadComponent.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lijsh <sysulijs@gmail.com>",
+  "license": "MIT",
+  "description": ""
+}
